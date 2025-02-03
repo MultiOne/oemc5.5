@@ -4,7 +4,7 @@
 
 - install `uv` tool:
   - https://docs.astral.sh/uv/getting-started/installation/
-- from project root
+#### from project root
 
 ```uv init```
 
